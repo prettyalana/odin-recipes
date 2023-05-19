@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Raleway+Dots&family=Sigmar&display=swap');
+
 h1, h2, h3, h4, h5, h6 {
     font-size: 80px;
     font-weight: bolder;
@@ -19,12 +21,17 @@ h1 {
 button {
     display: inline;
     float: none;
-    margin-left: 180px;
+    margin-left: 150px;
     background-color: pink;
-    font-size: 16px;
+    box-shadow: 0 0 30px 0 pink,
+                    0 0 30px 0 pink,
+                    0 0 10px 0 pink inset;
+    font-size: 20px;
     border-radius: 20px;
     font-family: 'Raleway Dots';
     font-weight: bolder;
+    padding: 10px;
+    margin-top: 20vh;
 }
 
 button:hover {
