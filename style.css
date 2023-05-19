@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: 'Raleway Dots', sans-serif;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/14976528/pexels-photo-14976528/free-photo-of-white-and-pink-meringues.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+button {
+    display: inline;
+    float: none;
+    margin-left: 180px;
+    background-color: pink;
+    font-size: 16px;
+    border-radius: 20px;
+    font-family: 'Raleway Dots';
+    font-weight: bolder;
+}
+
+button:hover {
+    background-color: wheat;
+}
+
+img {
+    margin-left: 410px;
+    margin-top: 80px;
+}
