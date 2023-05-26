@@ -18,10 +18,9 @@ h1 {
 }
 
 
-button {
-    display: inline;
-    float: none;
-    margin-left: 150px;
+#kimbap,
+#orangechicken,
+#steak {
     background-color: pink;
     box-shadow: 0 0 30px 0 pink,
                     0 0 30px 0 pink,
@@ -31,14 +30,9 @@ button {
     font-family: 'Raleway Dots';
     font-weight: bolder;
     padding: 10px;
-    margin-top: 20vh;
+    margin: 5vw;
 }
 
-button:hover {
-    background-color: wheat;
-}
-
-img {
-    margin-left: 410px;
-    margin-top: 80px;
+div {
+    margin: 100px;
 }
