@@ -33,6 +33,18 @@ h1 {
     margin: 5vw;
 }
 
+#kimbap:hover {
+    background-color: wheat;
+}
+
+#orangechicken:hover {
+    background-color: wheat;
+}
+
+#steak:hover {
+    background-color: wheat;
+}
+
 div {
     margin: 100px;
 }
