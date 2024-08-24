@@ -21,12 +21,14 @@ h6 {
 
 body {
   background-image: url("https://images.pexels.com/photos/14976528/pexels-photo-14976528/free-photo-of-white-and-pink-meringues.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
 
 h1 {
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 a {
